@@ -2,9 +2,13 @@
 Work whith files
 1) Переместиться между директориями
 cd <directory>
+
 ![alt text](image.png)
+
 cd – (Перейти в предыдущую директорию)
+
 ![alt text](image-1.png)
+
 2) Вывести список файлов в директории
 ls
 ![alt text](image-2.png)
